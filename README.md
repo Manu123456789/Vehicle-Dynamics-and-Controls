@@ -1,4 +1,4 @@
-# Vehicle-Dynamics-and-Controls (ME236C w/ Dr. Francesco Borelli)
+# Vehicle-Dynamics-and-Controls 
 
 PID Path Following
 ```
